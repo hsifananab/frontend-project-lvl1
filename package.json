@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/hsifananab/frontend-project-lvl1.git"
   },
-  "author": "",
+  "author": "Ian Yusov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hsifananab/frontend-project-lvl1/issues"
@@ -18,7 +18,8 @@
   "homepage": "https://github.com/hsifananab/frontend-project-lvl1#readme",
   "type": "module",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "readline-sync": "^1.4.10"
