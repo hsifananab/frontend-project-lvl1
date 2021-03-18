@@ -3,7 +3,6 @@ import readlineSync from 'readline-sync';
 const numberOfRounds = 3;
 
 const runEngine = (gameData) => {
-
   console.log('Welcome to the Brain Games!');
   const name = readlineSync.question('May I have your name? ');
   console.log(`Hello, ${name}!`);
@@ -28,7 +27,7 @@ const runEngine = (gameData) => {
 
     console.log(`${answer} is wrong answer ;(. Correct answer was ${correctAnswer}.`);
     return false;
-  }
+  };
 
   const isWinner = playRound(1);
   if (isWinner) {
@@ -36,6 +35,6 @@ const runEngine = (gameData) => {
   } else {
     console.log(`Let's try again, ${name}!`);
   }
-}
+};
 
 export default runEngine;
