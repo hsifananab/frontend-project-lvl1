@@ -8,7 +8,7 @@ const getGameQuestionAndAnswer = () => {
   const correctAnswer = utilities.isPrime(question) ? 'yes' : 'no';
 
   return { question, correctAnswer };
-}
+};
 
 const gameData = { gameRules, getGameQuestionAndAnswer };
 
