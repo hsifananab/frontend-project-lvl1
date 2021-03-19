@@ -7,7 +7,7 @@
 
 Installation Tutorial
 
-[![asciicast](https://asciinema.org/a/tM2qpr2GK3mh6WGkFPjIKrFXh.svg)](https://asciinema.org/a/tM2qpr2GK3mh6WGkFPjIKrFXh)
+[![asciicast](https://asciinema.org/a/UqonrcdnMP7fM5eF6tehXQDPY.svg)](https://asciinema.org/a/UqonrcdnMP7fM5eF6tehXQDPY)
 
 Brain Even Game Tutorial
 
