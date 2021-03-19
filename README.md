@@ -16,3 +16,7 @@ Brain Even Game Tutorial
 Brain Calculator Game Tutorial 
 
 [![asciicast](https://asciinema.org/a/z4QiQZbPY29AUJwmMRlsiAhOr.svg)](https://asciinema.org/a/z4QiQZbPY29AUJwmMRlsiAhOr)
+
+Brain GCD Game Tutorial
+
+[![asciicast](https://asciinema.org/a/TXBxOl9WE95KGehxrZASxbI3V.svg)](https://asciinema.org/a/TXBxOl9WE95KGehxrZASxbI3V)
