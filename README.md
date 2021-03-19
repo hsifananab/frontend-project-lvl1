@@ -7,4 +7,4 @@
 
 Installation Tutorial
 
-<script id="asciicast-LgaNJHIIymJDmn0bOaAnBWXxv" src="https://asciinema.org/a/LgaNJHIIymJDmn0bOaAnBWXxv.js" async></script>
+[![asciicast](https://asciinema.org/a/LgaNJHIIymJDmn0bOaAnBWXxv.svg)](https://asciinema.org/a/LgaNJHIIymJDmn0bOaAnBWXxv)
