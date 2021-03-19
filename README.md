@@ -20,3 +20,7 @@ Brain Calculator Game Tutorial
 Brain GCD Game Tutorial
 
 [![asciicast](https://asciinema.org/a/TXBxOl9WE95KGehxrZASxbI3V.svg)](https://asciinema.org/a/TXBxOl9WE95KGehxrZASxbI3V)
+
+Brain Progression Game Tutorial
+
+[![asciicast](https://asciinema.org/a/veaeg47axKaOZyQFnDeLRHeEq.svg)](https://asciinema.org/a/veaeg47axKaOZyQFnDeLRHeEq)
