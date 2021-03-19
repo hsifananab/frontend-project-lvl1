@@ -8,3 +8,11 @@
 Installation Tutorial
 
 [![asciicast](https://asciinema.org/a/tM2qpr2GK3mh6WGkFPjIKrFXh.svg)](https://asciinema.org/a/tM2qpr2GK3mh6WGkFPjIKrFXh)
+
+Brain Even Game Tutorial
+
+[![asciicast](https://asciinema.org/a/o3je2nqFJp9SXyc5E2zEZGWnY.svg)](https://asciinema.org/a/o3je2nqFJp9SXyc5E2zEZGWnY)
+
+Brain Calculator Game Tutorial 
+
+[![asciicast](https://asciinema.org/a/z4QiQZbPY29AUJwmMRlsiAhOr.svg)](https://asciinema.org/a/z4QiQZbPY29AUJwmMRlsiAhOr)
