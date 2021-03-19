@@ -7,4 +7,4 @@
 
 Installation Tutorial
 
-[![asciicast](https://asciinema.org/a/LgaNJHIIymJDmn0bOaAnBWXxv.svg)](https://asciinema.org/a/LgaNJHIIymJDmn0bOaAnBWXxv)
+[![asciicast](https://asciinema.org/a/tM2qpr2GK3mh6WGkFPjIKrFXh.svg)](https://asciinema.org/a/tM2qpr2GK3mh6WGkFPjIKrFXh)
